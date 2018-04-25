@@ -168,7 +168,7 @@ sudo linux ubd0=jarkom umid=uml-net
 ```
 Untuk mematikan cukup ketikkan *`halt`*
 
-Atau bisa membuat [topologi.sh](link "topologi.sh") (pastikan tidak testing menggunakan user root)
+Atau bisa membuat [topologi.sh](https://github.com/cphikmawan/Dokumentasi-Server-Jaringan-Komputer/blob/master/Script/topologi.sh "topologi.sh") (pastikan tidak testing menggunakan user root)
 
 
 - ### Setting Jaringan
